@@ -2,7 +2,10 @@
 
 An interactive Streamlit app visualizing global happiness scores from the Cantril Ladder dataset, sourced from Our World in Data.
 
-![Dashboard Screenshot](https://user-images.githubusercontent.com/rushab0407/happiness_dashboard_preview.png)
+![Dashboard Screenshot](assets/vis1.png)
+![Dashboard Screenshot](assets/vis2.png)
+![Dashboard Screenshot](assets/vis3.png)
+
 
 ## 🔍 Features
 
